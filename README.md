@@ -4,4 +4,5 @@ This project examines different ML models including
 2. SVM
 3. KNN
 4. Random Forests
+
 To classify handwritten digits from MNIST dataset
