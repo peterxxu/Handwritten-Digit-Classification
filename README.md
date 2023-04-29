@@ -1,2 +1,7 @@
 # Handwritten-Digit-Classification
-Data science project that examines different ML models that classify handwritten digits from MNIST dataset
+This project examines different ML models including 
+1. logistic regression
+2. SVM
+3. KNN
+4. Random Forests
+To classify handwritten digits from MNIST dataset
