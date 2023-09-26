@@ -1,4 +1,4 @@
-# Handwritten-Digit-Classification
+# handwritten-digit-classification
 This project aims to classify handwritten digits from the MNIST dataset.
 
 With data preprocessing using PCA tranformation, it constructs different sklearn ML models including 
